@@ -1,0 +1,14 @@
+.table {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 10px;
+    align-items: center;
+    border:3px solid black;
+    margin:2px;
+
+}
+
+.header {
+    font-weight: bold;
+    margin-left: 5px;
+}
